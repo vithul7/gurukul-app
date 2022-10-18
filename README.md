@@ -1,1 +1,1 @@
-# gurukul-app
+Created android app for my volunteer organization to allow interns to comment on students and view comments on their own performacne from overseers, who are aided by comment suggestions. Used Dart, Flutter, and Android Studios to make app with log-in functionality and beautiful interface. Stored data in Firebase and allowed interns to edit, delete, add, and store data. Implemented complex binary tree algorithm to create suggestion trees generating intern feedback.
